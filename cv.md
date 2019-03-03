@@ -1,19 +1,19 @@
-#Junior Front End Developer
+# Junior Front End Developer
 
-##Denis Borisov
+## Denis Borisov
 
 ![Roflan](https://chpic.su/_data/stickers/PolniyPakich/PolniyPakich_001.png)
 
-###Contacts:
+### Contacts:
 
 * phone: +375 (__) 7__-__-__
 * github: DenisBorisovJS
 * discord: #9136
 * Minsk,Belarus
 
-###Summury:
+### Summury:
 
-I can describe myself in 3 words "*I`m the best*". My goal is to be first on your course but the Padawans system lowers me every day. How it`s possible if i have **600** point out **600**!
+I can describe myself in 3 words *"I`m the best"*. My goal is to be first on your course but the Padawans system lowers me every day. How it`s possible if i have **600** point out **600**!
 
 Skills:
 
@@ -44,18 +44,18 @@ Skills:
 * and etc.
 
 
-###Code examples:
+### Code examples:
 ```javascript
 console.log('Trade secret');
 ```
 
-###Experience:
+### Experience:
 More than two years of commercial development
 
 
-###Education:
+### Education:
 Belarusian National Technical University :trollface:
 
-###English Level:
+### English Level:
 
 "Chego bly**))"
