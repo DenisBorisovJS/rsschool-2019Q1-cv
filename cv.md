@@ -13,7 +13,7 @@
 
 ### Summury:
 
-I can describe myself in 3 words "I`m the best". My goal is to be first on your course but the Padawans system lowers me every day. How it`s possible if i have **600** point out **600**!
+I can describe myself in 3 words "*Im the best*". My goal is to be first on your course but the Padawans system lowers me every day. How its possible if i have **600** point out **600**!
 
 Skills:
 
